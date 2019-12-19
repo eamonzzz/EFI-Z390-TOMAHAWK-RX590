@@ -91,47 +91,36 @@
 
 显示器
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/QQ20191219-225226@2x.png)
+![显示器](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/QQ20191219-225226@2x.png)
 
 
 
 USB
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/usb.png)
-
+![USB](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/usb.png)
 
 
 网卡
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/网卡.png)
+![网卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/网卡.png)
 
 
 
 图形卡
 
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/tuxingka.png)
+![图形卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/tuxingka.png)
 
 
 
 电源
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/dianyuan.png)
+![电源](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/dianyuan.png)
 
 
 
 蓝牙
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/lanya.png)
+![蓝牙](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/lanya.png)
 
 
 
