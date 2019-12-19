@@ -85,7 +85,7 @@
 
 ### 系统截图
 
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
+![系统截图](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
 
 
 
@@ -132,5 +132,5 @@ USB
 
 原生电源
 
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/jeneng.png)
+![原生电源](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/jeneng.png)
 
