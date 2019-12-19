@@ -84,7 +84,9 @@
 
 ### 系统截图
 
-![系统截图](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
+概览
+
+![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
 
 
 
