@@ -126,9 +126,7 @@ USB
 
 声卡
 
-
-
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/shengka.png)
+![声卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/shengka.png)
 
 
 
