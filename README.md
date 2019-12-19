@@ -85,7 +85,7 @@
 
 ### 系统截图
 
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/QQ20191219-225123@2x.png)
+![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
 
 
 
