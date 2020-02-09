@@ -120,5 +120,5 @@ USB
 
 原生电源
 
-![原生电源](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/jeneng.png)
+![原生电源](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209114100.png)
 
