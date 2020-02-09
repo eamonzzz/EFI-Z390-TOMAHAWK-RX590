@@ -26,7 +26,7 @@
 ## 完美情况
 
 - [x] macOS 版本
-  - [x] 10.15.2
+  - [x] 10.15.x
 - [x] 显卡（HDMI接4k显示器）
   - [x] AMD RX590 
 - [x] 睡眠/唤醒
@@ -88,50 +88,35 @@
 
 概览
 
-![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
-
-
+![](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112343.png)
 
 显示器
 
-![显示器](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/QQ20191219-225226@2x.png)
-
-
+![显示器](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112501.png)
 
 USB
 
-![USB](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/usb.png)
-
+![USB](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112602.png)
 
 网卡
 
-![网卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/网卡.png)
+![网卡](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112640.png)
 
+显卡
 
-
-图形卡
-
-![图形卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/tuxingka.png)
-
-
+![图形卡](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112717.png)
 
 电源
 
-![电源](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/dianyuan.png)
-
-
+![电源](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112832.png)
 
 蓝牙
 
-![蓝牙](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/lanya.png)
-
-
+![蓝牙](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112903.png)
 
 声卡
 
-![声卡](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/shengka.png)
-
-
+![声卡](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112944.png)
 
 原生电源
 
