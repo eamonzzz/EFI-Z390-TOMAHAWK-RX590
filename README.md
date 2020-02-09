@@ -88,7 +88,7 @@
 
 概览
 
-![](https://raw.githubusercontent.com/eamonzzz/my-picture-bed/master/blog-images20200209112343.png)
+![](https://gitee.com/eamonzzz/FigureBed/raw/master/macintosh/gailan.png)
 
 显示器
 
