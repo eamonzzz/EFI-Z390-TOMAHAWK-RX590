@@ -48,6 +48,12 @@
 
 ## 更新记录
 
+2020-02-14:
+
+1. 完成 usb 定制--添加USBPorts.kext定制驱动（驱动中的USBInjectAll.kext可以删除了，我这里是在config.plist中禁用的，并没有删）
+2. 在 ACPI中添加了SSDT-UIAC.aml，这是定制USB时导出的，使用了USBPorts.kext之后，这个补丁可以不加载（我只是添加了该文件并未在config.plist进行注入）
+3. 此外还更新了“解除usb端口限制开关”，既：将 XhciPortLimit 设置为false
+
 2020-02-09：
 
 1. 升级OpenCore版本至 0.5.6
