@@ -17,10 +17,10 @@
 			<dict>
 				<key>Comment</key>
 				<string>XCPM</string>
-				<key>Path</key>
-				<string>plug-xcpm.aml</string>
 				<key>Enabled</key>
 				<true/>
+				<key>Path</key>
+				<string>plug-xcpm.aml</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -56,6 +56,46 @@
 		</array>
 		<key>Patch</key>
 		<array>
+			<dict>
+				<key>Comment</key>
+				<string>Rename EHC1 to EH01 (USB)</string>
+				<key>Find</key>
+				<data>RUhDMQ==</data>
+				<key>Replace</key>
+				<data>RUgwMQ==</data>
+				<key>TableSignature</key>
+				<data>RFNEVA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Rename EHC2 to EH02 (USB)</string>
+				<key>Find</key>
+				<data>RUhDMg==</data>
+				<key>Replace</key>
+				<data>RUgwMg==</data>
+				<key>TableSignature</key>
+				<data>RFNEVA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Rename XHCI to XHC (USB)</string>
+				<key>Find</key>
+				<data>WEhDSQ==</data>
+				<key>Replace</key>
+				<data>WEhDXw==</data>
+				<key>TableSignature</key>
+				<data>RFNEVA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Rename XHC1 to XHC (USB)</string>
+				<key>Find</key>
+				<data>WEhDMQ==</data>
+				<key>Replace</key>
+				<data>WEhDXw==</data>
+				<key>TableSignature</key>
+				<data>RFNEVA==</data>
+			</dict>
 		</array>
 		<key>Quirks</key>
 		<dict>
@@ -193,18 +233,18 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
+				<key>BundlePath</key>
+				<string>SMCProcessor.kext</string>
 				<key>Comment</key>
 				<string></string>
-				<key>MatchKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/SMCProcessor</string>
-				<key>BundlePath</key>
-				<string>SMCProcessor.kext</string>
+				<key>MatchKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
 				<key>BundlePath</key>
@@ -255,32 +295,48 @@
 				<string>Contents/Info.plist</string>
 			</dict>
 			<dict>
-				<key>Comment</key>
-				<string></string>
-				<key>MatchKernel</key>
-				<string></string>
-				<key>PlistPath</key>
-				<string>Contents/Info.plist</string>
-				<key>Enabled</key>
-				<true/>
-				<key>ExecutablePath</key>
-				<string>Contents/MacOS/USBInjectAll</string>
 				<key>BundlePath</key>
 				<string>USBInjectAll.kext</string>
-			</dict>
-			<dict>
 				<key>Comment</key>
 				<string></string>
+				<key>Enabled</key>
+				<false/>
+				<key>ExecutablePath</key>
+				<string>Contents/MacOS/USBInjectAll</string>
 				<key>MatchKernel</key>
 				<string></string>
 				<key>PlistPath</key>
 				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
+				<key>BundlePath</key>
+				<string>AirportBrcmFixup.kext</string>
+				<key>Comment</key>
+				<string></string>
 				<key>Enabled</key>
 				<true/>
 				<key>ExecutablePath</key>
 				<string>Contents/MacOS/AirportBrcmFixup</string>
+				<key>MatchKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
+			</dict>
+			<dict>
 				<key>BundlePath</key>
-				<string>AirportBrcmFixup.kext</string>
+				<string>USBPorts.kext</string>
+				<key>Comment</key>
+				<string></string>
+				<key>Enabled</key>
+				<true/>
+				<key>ExecutablePath</key>
+				<string></string>
+				<key>MaxKernel</key>
+				<string></string>
+				<key>MinKernel</key>
+				<string></string>
+				<key>PlistPath</key>
+				<string>Contents/Info.plist</string>
 			</dict>
 		</array>
 		<key>Block</key>
@@ -612,17 +668,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>xxxxxxxxxxxxxxxxxxx</string>
+			<string>C02708108J9JG36FB</string>
 			<key>ROM</key>
-			<data></data>
+			<data>j22KaQo9</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
-			<string>xxxxxx</string>
+			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>xxxxxx</string>
+			<string>C02T90RYHX87</string>
 			<key>SystemUUID</key>
-			<string>xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx</string>
+			<string>FA4207BF-BC54-475C-8421-B4AD72690A3D</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
