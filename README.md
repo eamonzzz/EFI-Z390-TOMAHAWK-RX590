@@ -48,6 +48,12 @@
 
 ## 更新记录
 
+2020-02-22:
+
+1. 重新定制USB
+2. 解决RTC ALARM引起的定时唤醒
+3. 添加6D补丁SSDT-GPRW，修复XDCI CNVW睡眠唤醒问题
+
 2020-02-14:
 
 1. 完成 usb 定制--添加USBPorts.kext定制驱动（驱动中的USBInjectAll.kext可以删除了，我这里是在config.plist中禁用的，并没有删）
