@@ -22,6 +22,22 @@
 				<key>Path</key>
 				<string>plug-xcpm.aml</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-RTC0</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-RTC0.aml</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>SSDT-GPRW</string>
+				<key>Enabled</key>
+				<true/>
+				<key>Path</key>
+				<string>SSDT-GPRW.aml</string>
+			</dict>
 		</array>
 		<key>Block</key>
 		<array>
@@ -95,6 +111,33 @@
 				<data>WEhDXw==</data>
 				<key>TableSignature</key>
 				<data>RFNEVA==</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>GPRW to XPRW
+</string>
+				<key>Count</key>
+				<integer>1</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>R1BSVwI=</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>WFBSVwI=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -171,6 +214,17 @@
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict/>
+			<key>PciRoot(0x0)/Pci(0x1,0x0)/Pci(0x0,0x0)</key>
+			<dict>
+				<key>ATY,Rom#</key>
+				<string>113-4E3661U-X6I</string>
+				<key>ATY,EFIVersion</key>
+				<string>015.050.003.000.000000</string>
+				<key>ATY,Card#</key>
+				<string>109-D000A1-00</string>
+				<key>hda-gfx</key>
+				<string>onboard-1</string>
+			</dict>
 		</dict>
 		<key>Block</key>
 		<dict>
@@ -526,7 +580,7 @@
 			<key>ShowPicker</key>
 			<true/>
 			<key>Timeout</key>
-			<integer>5</integer>
+			<integer>3</integer>
 			<key>UsePicker</key>
 			<true/>
 		</dict>
@@ -668,17 +722,17 @@
 		<key>Generic</key>
 		<dict>
 			<key>MLB</key>
-			<string>C02708108J9JG36FB</string>
+			<string>xxxxxxxxx</string>
 			<key>ROM</key>
-			<data>j22KaQo9</data>
+			<data>xxxxxxxx</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMacPro1,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02T90RYHX87</string>
+			<string>xxxxxxxxxx</string>
 			<key>SystemUUID</key>
-			<string>FA4207BF-BC54-475C-8421-B4AD72690A3D</string>
+			<string>xxxxxxx-xxxx-xxxx-xxxx-xxxxxxx</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
