@@ -48,6 +48,14 @@
 
 ## 更新记录
 
+2020-03-14：
+
+1. 大版本升级，在OC官方发布0.5.6版本之后，配置文件结构有重大修改，所以本次更新版本与之前版本不兼容了（不止升级OpenCore.efi和BOOTx64.efi）
+2. 本次更新的版本采用的是 2020-03-13日  [williambj1编译的](https://github.com/williambj1/OpenCore-Factory/releases) 0.5.7 beta版本
+3. 同时更新了所有驱动
+4. 添加了Resources目录
+5. 添加Audio章节配置，但还未测试开机Duang的声音
+
 2020-02-26：
 
 1. 移动用不到的acpi补丁到 acpi 下的 off 目录
