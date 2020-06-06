@@ -19,9 +19,9 @@
 
 ## 说明
 
-项目中CLOVER是在淘宝上嫖的，能够成功引导，但是没有去精简，里面很多内容。如果你使用CLOVER引导不成功，请自行修改，或者用OpenCore版本的EFI试试。
-
 目前我正在使用的是OC引导，自己根据 [xjin大神](https://blog.xjn819.com/?p=543) 的博客配置的，如果不是很了解OpenCore，建议详细阅读一遍大神的博客。
+
+如果想使用 CLOVER 引导，请切换至[clover](https://github.com/eamonzzz/EFI-Z390-TOMAHAWK-RX590/tree/clover) 分支，或在[releases](https://github.com/eamonzzz/EFI-Z390-TOMAHAWK-RX590/releases)中下载 `clover` 标签的打包文件
 
 ## 完美情况
 
